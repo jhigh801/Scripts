@@ -4,6 +4,7 @@ pacman -S networkmanager network-manager-applet nm-connection-editor iw iwd dhcp
 
 systemctl enable NetworkManager.service &&
 systemctl enable bluetooth.service &&
+systemctl enable iwd.service &&
 systemctl enable wpa_supplicant.service &&
 systemctl enable dhcpcd.service &&
 systemctl enable reflector.service &&
