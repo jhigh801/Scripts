@@ -1,2 +1,2 @@
 # Scripts
-This Repo is for my Personal use Only!!
+This Repo is for installing packages relevant only for Archlinux.
